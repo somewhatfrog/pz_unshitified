@@ -6,6 +6,7 @@
 ### How to install 
 1. Make a backup of `projectzomboid.jar`.
 2. Open `projectzomboid.jar` with `7zip` or whatever and drop in and replace files into their corresponding paths (or use `jar uf`).
+
 To revert just restore the backed up file or run the `Verify integrity of game files` in Steam.
 
 ---
