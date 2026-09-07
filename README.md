@@ -25,6 +25,6 @@ Disables the black spots on not yet explored tiles, this both improves visuals a
 
 **viewcone_patch/**
 
-Adds a simple b41-like viewcone with a nice fade and hearing range.
+Adds a simple b41-like viewcone with a nice fade and hearing range. Set vanilla viewcone to 0 to enable simple viewcone.
 
 ![](./img/viewcone_patch.jpg)
